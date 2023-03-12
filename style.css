@@ -1,8 +1,7 @@
-.bg {
-    background-image: url("../img/header_background.jpeg");
-    height: 100%; 
+header {
+    background-image: url("../Batman/img/header_background.jpeg") ;
+    height: 500px; 
     background-position: center;
-    background-repeat: no-repeat;
     background-size: cover;
     color: white;
     margin: auto;
